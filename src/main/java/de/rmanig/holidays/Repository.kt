@@ -1,9 +1,9 @@
-package org.holidays
+package de.rmanig.holidays
 
-import org.holidays.definitions.DefinitionFile
-import org.holidays.definitions.Definition
-import org.holidays.functions.GregorianEaster
-import org.holidays.functions.RegionalFunction
+import de.rmanig.holidays.definitions.DefinitionFile
+import de.rmanig.holidays.definitions.Definition
+import de.rmanig.holidays.functions.GregorianEaster
+import de.rmanig.holidays.functions.RegionalFunction
 import java.time.LocalDate
 import java.time.Year
 

@@ -1,4 +1,4 @@
-package org.holidays.functions
+package de.rmanig.holidays.functions
 
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test

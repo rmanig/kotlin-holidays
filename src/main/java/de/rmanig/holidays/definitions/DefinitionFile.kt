@@ -1,4 +1,4 @@
-package org.holidays.definitions
+package de.rmanig.holidays.definitions
 
 data class DefinitionFile(val months: Map<Int, List<Definition>>,
                           val methods: Map<String, Method>,

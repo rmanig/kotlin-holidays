@@ -1,7 +1,7 @@
-package org.holidays
+package de.rmanig.holidays
 
-import org.holidays.definitions.DefinitionFile
-import org.holidays.yaml.YAMLParser
+import de.rmanig.holidays.definitions.DefinitionFile
+import de.rmanig.holidays.yaml.YAMLParser
 
 class Loader {
 

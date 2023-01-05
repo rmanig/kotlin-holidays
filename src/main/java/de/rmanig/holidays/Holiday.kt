@@ -1,4 +1,4 @@
-package org.holidays
+package de.rmanig.holidays
 
 import java.time.LocalDate
 

@@ -1,4 +1,4 @@
-package org.holidays.yaml
+package de.rmanig.holidays.yaml
 
 import org.junit.jupiter.api.Test
 

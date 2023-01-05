@@ -1,4 +1,4 @@
-package org.holidays.definitions
+package de.rmanig.holidays.definitions
 
 data class Definition(
         val name: String,

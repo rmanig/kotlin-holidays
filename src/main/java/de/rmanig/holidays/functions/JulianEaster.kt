@@ -1,4 +1,4 @@
-package org.holidays.functions
+package de.rmanig.holidays.functions
 
 import java.time.LocalDate
 import java.time.Year

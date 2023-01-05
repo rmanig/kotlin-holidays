@@ -1,10 +1,10 @@
-package org.holidays.yaml
+package de.rmanig.holidays.yaml
 
 import com.fasterxml.jackson.databind.DeserializationFeature
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory
 import com.fasterxml.jackson.module.kotlin.registerKotlinModule
-import org.holidays.definitions.DefinitionFile
+import de.rmanig.holidays.definitions.DefinitionFile
 import java.io.IOException
 import java.io.InputStream
 

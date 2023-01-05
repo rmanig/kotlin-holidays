@@ -1,4 +1,4 @@
-import org.holidays.Holidays
+import de.rmanig.holidays.Holidays
 import java.time.LocalDate
 
 fun main() {

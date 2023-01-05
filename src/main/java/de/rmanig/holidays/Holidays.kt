@@ -1,12 +1,9 @@
-package org.holidays
+package de.rmanig.holidays
 
-import org.holidays.definitions.Definition
-import org.holidays.definitions.Method
-import java.nio.file.WatchEvent.Modifier
+import de.rmanig.holidays.definitions.Definition
 import java.time.LocalDate
 import java.time.Year
 import java.time.YearMonth
-import kotlin.math.sign
 
 class Holidays {
 
